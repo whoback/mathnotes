@@ -86,7 +86,11 @@ Points to remember:
 
 ## Chapter 3
 Computing derivatives - how and why
-Derivatives are fundamentally about tiny changes over time. Many real life applications are modeled using pure functions like polynomial, trigonometric, exponentials etc... We 
+Derivatives are fundamentally about tiny changes over time. Many real life applications are modeled using pure functions like polynomial, trigonometric, exponentials etc... We want to be able to have a shared language to discuss the rates of change for any of these real life situations. 
+
+Rule of thumb: you can ignore any amount of dx raised to a power greater than 1
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTA3OTQ3NywxMTc1NTE2Mjk2XX0=
+eyJoaXN0b3J5IjpbLTM5ODQ1MTU4MiwxMTc1NTE2Mjk2XX0=
 -->
