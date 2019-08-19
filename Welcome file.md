@@ -86,7 +86,7 @@ Points to remember:
 
 ## Chapter 3
 Computing derivatives - how and why
-Derivatives are fundamentally about tiny changes over time. Many real life 
+Derivatives are fundamentally about tiny changes over time. Many real life applications are modeled using pure functions like polynomial, trigonometric, exponentials etc... We 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTkxNjYyNzAsMTE3NTUxNjI5Nl19
+eyJoaXN0b3J5IjpbLTY4MTA3OTQ3NywxMTc1NTE2Mjk2XX0=
 -->
