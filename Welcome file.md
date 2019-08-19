@@ -92,9 +92,9 @@ Rule of thumb: you can ignore any amount of dx raised to a power greater than 1
 
 Power Rule
 $$
-\frac{d(x^n)}{dx}=nx^{
+\frac{d(x^n)}{dx}=nx^{n-1}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDIzODk5MiwtMzk4NDUxNTgyLDExNz
-U1MTYyOTZdfQ==
+eyJoaXN0b3J5IjpbNTY0OTU1NTcsLTM5ODQ1MTU4MiwxMTc1NT
+E2Mjk2XX0=
 -->
