@@ -90,7 +90,11 @@ Derivatives are fundamentally about tiny changes over time. Many real life appli
 
 Rule of thumb: you can ignore any amount of dx raised to a power greater than 1
 
-
+Power Rule
+$$
+\frac{d(x^n)}{dx}=nx^{
+$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODQ1MTU4MiwxMTc1NTE2Mjk2XX0=
+eyJoaXN0b3J5IjpbMjA0MDIzODk5MiwtMzk4NDUxNTgyLDExNz
+U1MTYyOTZdfQ==
 -->
