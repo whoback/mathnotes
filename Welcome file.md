@@ -85,7 +85,8 @@ Points to remember:
 2. dt is not 0
 
 ## Chapter 3
+Computing derivatives - how and why
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTUxNjI5Nl19
+eyJoaXN0b3J5IjpbNTM2NzE3OTgyLDExNzU1MTYyOTZdfQ==
 -->
