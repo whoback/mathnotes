@@ -86,7 +86,7 @@ Points to remember:
 
 ## Chapter 3
 Computing derivatives - how and why
-
+Derivatives are fundamentally about tiny changes over time. Many real life 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NzE3OTgyLDExNzU1MTYyOTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MTkxNjYyNzAsMTE3NTUxNjI5Nl19
 -->
